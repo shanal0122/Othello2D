@@ -20,6 +20,10 @@ public class DisplayPvP: MonoBehaviour
     public GameObject board;
     public GameObject greenBoard;
     public GameObject stone;
+    public GameObject coordiDownText;
+    public GameObject coordiUpText;
+    public GameObject coordiLeftText;
+    public GameObject coordiRightText;
     public static bool instruction = false; //操作説明を表示していない状態
     public static bool giveUp = false; //GiveUpGameで用いる変数。true:エンターを押したらギブアップできる状態
 
@@ -37,6 +41,10 @@ public class DisplayPvP: MonoBehaviour
         board.SetActive(false);
         greenBoard.SetActive(false);
         stone.SetActive(false);
+        coordiDownText.SetActive(false);
+        coordiUpText.SetActive(false);
+        coordiLeftText.SetActive(false);
+        coordiRightText.SetActive(false);
       }
 
       if(instruction == true)
@@ -52,6 +60,10 @@ public class DisplayPvP: MonoBehaviour
         board.SetActive(true);
         greenBoard.SetActive(true);
         stone.SetActive(true);
+        coordiDownText.SetActive(true);
+        coordiUpText.SetActive(true);
+        coordiLeftText.SetActive(true);
+        coordiRightText.SetActive(true);
       }
 
       instruction = !instruction; //instructionへの代入のタイミングに注意！！！

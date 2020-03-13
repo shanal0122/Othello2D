@@ -1219,6 +1219,10 @@ MonoBehaviour:
   board: {fileID: 121750572}
   greenBoard: {fileID: 1301953534}
   stone: {fileID: 1971167685}
+  coordiDownText: {fileID: 1468480113}
+  coordiUpText: {fileID: 97309317}
+  coordiLeftText: {fileID: 1993397343}
+  coordiRightText: {fileID: 739733288}
 --- !u!114 &933633978
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1335,8 +1339,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 6.5, y: 9, z: 3.5}
+  m_LocalRotation: {x: 0.4932698, y: 0.2170119, z: -0.12858284, w: 0.8325006}
+  m_LocalPosition: {x: 2.0171115, y: 7.2786536, z: -2.285474}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 223157460}
