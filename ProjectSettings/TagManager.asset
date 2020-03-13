@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - stone
+  - keydetector
+  - master
+  - tagB0
+  - tagB1
+  - tagB2
+  - tagB3
+  - tagB4
+  - tagB5
+  - tagB6
+  - tagB7
+  - tagB8
+  - tagB9
+  - tagB10
+  - tagB11
+  - tagB12
+  - tagB13
+  - tagB14
+  - tagB15
+  - tagB16
+  - tagB17
+  - tagB18
+  - tagB19
+  - tagB20
+  - tagB21
+  - tagB22
+  - tagB23
+  - tagB24
+  - tagB25
+  - tagB26
+  - tagB27
+  - tagB28
+  - tagB29
+  - tagB30
+  - tagB31
+  - tagB32
+  - tagB33
+  - tagB34
+  - tagB35
+  - tagB36
+  - tagB37
+  - tagB38
+  - tagB39
+  - tagB40
+  - tagB41
+  - tagB42
+  - tagB43
+  - tagB44
+  - tagB45
+  - tagB46
+  - tagB47
+  - tagB48
+  - tagB49
+  - tagB50
+  - tagB51
+  - tagB52
+  - tagB53
+  - tagB54
+  - tagB55
+  - tagB56
+  - tagB57
+  - tagB58
+  - tagB59
+  - tagB60
+  - tagB61
+  - tagB62
+  - tagB63
+  - tagG0
+  - tagG1
+  - tagG2
+  - tagG3
+  - tagG4
+  - tagG5
+  - tagG6
+  - tagG7
+  - tagG8
+  - tagG9
+  - tagG10
+  - tagG11
+  - tagG12
+  - tagG13
+  - tagG14
+  - tagG15
+  - tagG16
+  - tagG17
+  - tagG18
+  - tagG19
+  - tagG20
+  - tagG21
+  - tagG22
+  - tagG23
+  - tagG24
+  - tagG25
+  - tagG26
+  - tagG27
+  - tagG28
+  - tagG29
+  - tagG30
+  - tagG31
+  - tagG32
+  - tagG33
+  - tagG34
+  - tagG35
+  - tagG36
+  - tagG37
+  - tagG38
+  - tagG39
+  - tagG40
+  - tagG41
+  - tagG42
+  - tagG43
+  - tagG45
+  - tagG46
+  - tagG47
+  - tagG48
+  - tagG49
+  - tagG50
+  - tagG51
+  - tagG52
+  - tagG53
+  - tagG54
+  - tagG55
+  - tagG56
+  - tagG57
+  - tagG58
+  - tagG59
+  - tagG60
+  - tagG61
+  - tagG62
+  - tagG63
+  - tagS0
+  - tagS1
+  - tagS2
+  - tagS3
+  - tagS4
+  - tagS5
+  - tagS6
+  - tagS7
+  - tagS8
+  - tagS9
+  - tagS10
+  - tagS11
+  - tagS12
+  - tagS13
+  - tagS14
+  - tagS15
+  - tagS16
+  - tagS17
+  - tagS18
+  - tagS20
+  - tagS21
+  - tagS22
+  - tagS23
+  - tagS24
+  - tagS25
+  - tagS26
+  - tagS27
+  - tagS28
+  - tagS29
+  - tagS30
+  - tagS31
+  - tagS32
+  - tagS33
+  - tagS34
+  - tagS35
+  - tagS36
+  - tagS37
+  - tagS38
+  - tagS39
+  - tagS40
+  - tagS41
+  - tagS42
+  - tagS43
+  - tagS44
+  - tagS45
+  - tagS46
+  - tagS47
+  - tagS48
+  - tagS49
+  - tagS50
+  - tagS51
+  - tagS52
+  - tagS53
+  - tagS54
+  - tagS55
+  - tagS56
+  - tagS57
+  - tagS58
+  - tagS59
+  - tagS60
+  - tagS61
+  - tagS62
+  - tagS63
+  - tagG44
+  - color
+  - tagS19
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
